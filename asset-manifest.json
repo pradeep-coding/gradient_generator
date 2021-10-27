@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gradient_generator/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/gradient_generator/static/js/main.bd114a61.chunk.js",
+    "main.js.map": "/gradient_generator/static/js/main.bd114a61.chunk.js.map",
+    "runtime-main.js": "/gradient_generator/static/js/runtime-main.d56d4282.js",
+    "runtime-main.js.map": "/gradient_generator/static/js/runtime-main.d56d4282.js.map",
+    "static/js/2.dc8e1f8f.chunk.js": "/gradient_generator/static/js/2.dc8e1f8f.chunk.js",
+    "static/js/2.dc8e1f8f.chunk.js.map": "/gradient_generator/static/js/2.dc8e1f8f.chunk.js.map",
+    "index.html": "/gradient_generator/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/gradient_generator/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.dc8e1f8f.chunk.js.LICENSE.txt": "/gradient_generator/static/js/2.dc8e1f8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d56d4282.js",
+    "static/js/2.dc8e1f8f.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.bd114a61.chunk.js"
+  ]
+}
